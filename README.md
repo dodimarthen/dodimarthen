@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/dodi_martin" target="blank"><img src="https://img.shields.io/twitter/follow/dodi_martin?logo=twitter&style=for-the-badge" alt="dodi_martin" /></a> </p>
 
-- 🔭 I’m currently working with BMKG **Seismograf Indonesia 1**
 
 - 🌱 I’m currently learning **Python, Data Analyst, Data Science, Tableau, Power BI**
 
