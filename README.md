@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dody Marthen</h1>
 <h3 align="center">A passionate a fun and passionate system engineer</h3>
-<img align="center" alt="Data" width="1000" src="https://visme.co/blog/wp-content/uploads/2016/04/Header-5.gif">
+<img align="center" alt="Data" width="1000" src="https://cloud.google.com/blog/products/data-analytics/cloud-data-analytics-news-and-features?ref=morioh.com&utm_source=morioh.com">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dodimarthen&label=Profile%20views&color=0e75b6&style=flat" alt="dodimarthen" /> </p>
 
