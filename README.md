@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Dody Marthen</h1>
-<h3 align="center">A passionate a fun and passionate system engineer</h3>
-<img align="center" alt="Data Pict" width="1000" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dodimarthen&label=Profile%20views&color=0e75b6&style=flat" alt="dodimarthen" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dodi_martin" target="blank"><img src="https://img.shields.io/twitter/follow/dodi_martin?logo=twitter&style=for-the-badge" alt="dodi_martin" /></a> </p>
-
-
 - 🌱 I’m currently learning **Python, Data Analyst, Data Science, Tableau, Power BI**
 
 - 👨‍💻 All of my projects are available at [github.com/dodimarthen](github.com/dodimarthen)
